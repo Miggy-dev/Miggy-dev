@@ -1,4 +1,4 @@
-# Hi there, I'm [Juan Miguel] 👋
+# Hi there, I'm Juan Miguel 👋
 
 ## 🚀 Full-Stack Developer | Problem Solver | Tech Enthusiast
 
@@ -10,7 +10,7 @@ Welcome to my corner of the coding universe! I'm passionate about building innov
 
 - 🔭 I'm currently working on **[NCIA]**
 - 🌱 I'm currently learning **[Javascipt]**
-- 📫 How to reach me: **[juanmiguelbarbosa11@gmail.com]**
+- 📫 How to reach me: **juanmiguelbarbosa11@gmail.com**
 - ⚡ Fun fact: **[Talkative]**
 
 ---
